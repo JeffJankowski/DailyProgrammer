@@ -1,0 +1,3 @@
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\ElevatorGenetic_218_Hard\bin\Debug\ElevatorGenetic.exe.config
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\ElevatorGenetic_218_Hard\obj\Debug\ElevatorGenetic.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\ElevatorGenetic_218_Hard\obj\Debug\ElevatorGenetic.pdb
