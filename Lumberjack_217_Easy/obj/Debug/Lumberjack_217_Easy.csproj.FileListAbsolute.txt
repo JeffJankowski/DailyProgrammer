@@ -1,0 +1,6 @@
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\Lumberjack_217_Easy\bin\Debug\Lumberjack_217_Easy.exe.config
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\Lumberjack_217_Easy\bin\Debug\Lumberjack_217_Easy.exe
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\Lumberjack_217_Easy\bin\Debug\Lumberjack_217_Easy.pdb
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\Lumberjack_217_Easy\obj\Debug\Lumberjack_217_Easy.csprojResolveAssemblyReference.cache
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\Lumberjack_217_Easy\obj\Debug\Lumberjack_217_Easy.exe
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\Lumberjack_217_Easy\obj\Debug\Lumberjack_217_Easy.pdb

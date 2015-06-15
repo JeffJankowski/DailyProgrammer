@@ -1,0 +1,12 @@
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Polyominoes_218_Intermediate\bin\Debug\Polyominoes_218_Intermediate.exe.config
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Polyominoes_218_Intermediate\bin\Debug\Polyominoes_218_Intermediate.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Polyominoes_218_Intermediate\bin\Debug\Polyominoes_218_Intermediate.pdb
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Polyominoes_218_Intermediate\obj\Debug\Polyominoes_218_Intermediate.csprojResolveAssemblyReference.cache
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Polyominoes_218_Intermediate\obj\Debug\Polyominoes_218_Intermediate.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Polyominoes_218_Intermediate\obj\Debug\Polyominoes_218_Intermediate.pdb
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\Polyominoes_218_Intermediate\bin\Debug\Polyominoes_218_Intermediate.exe.config
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\Polyominoes_218_Intermediate\obj\Debug\Polyominoes_218_Intermediate.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\Polyominoes_218_Intermediate\obj\Debug\Polyominoes_218_Intermediate.pdb
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\Polyominoes_218_Intermediate\bin\Debug\Polyominoes_218_Intermediate.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\Polyominoes_218_Intermediate\bin\Debug\Polyominoes_218_Intermediate.pdb
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\Polyominoes_218_Intermediate\obj\Debug\Polyominoes_218_Intermediate.csprojResolveAssemblyReference.cache

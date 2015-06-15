@@ -1,0 +1,6 @@
+c:\users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm\bin\Debug\HoldEm.exe.config
+c:\users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm\bin\Debug\HoldEm.exe
+c:\users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm\bin\Debug\HoldEm.pdb
+c:\users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm\obj\Debug\HoldEm.csprojResolveAssemblyReference.cache
+c:\users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm\obj\Debug\HoldEm.exe
+c:\users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm\obj\Debug\HoldEm.pdb

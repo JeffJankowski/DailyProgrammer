@@ -1,0 +1,6 @@
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm_216_Hard\bin\Debug\HoldEm_216_Hard.exe.config
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm_216_Hard\bin\Debug\HoldEm_216_Hard.exe
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm_216_Hard\bin\Debug\HoldEm_216_Hard.pdb
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm_216_Hard\obj\Debug\HoldEm_216_Hard.csprojResolveAssemblyReference.cache
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm_216_Hard\obj\Debug\HoldEm_216_Hard.exe
+C:\Users\jjankowski\documents\visual studio 2013\Projects\HoldEm\HoldEm_216_Hard\obj\Debug\HoldEm_216_Hard.pdb

@@ -1,0 +1,6 @@
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Palindromic_218_Easy\bin\Debug\Palindromic_218_Easy.exe.config
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Palindromic_218_Easy\bin\Debug\Palindromic_218_Easy.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Palindromic_218_Easy\bin\Debug\Palindromic_218_Easy.pdb
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Palindromic_218_Easy\obj\Debug\Palindromic_218_Easy.csprojResolveAssemblyReference.cache
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Palindromic_218_Easy\obj\Debug\Palindromic_218_Easy.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\HoldEm\Palindromic_218_Easy\obj\Debug\Palindromic_218_Easy.pdb
