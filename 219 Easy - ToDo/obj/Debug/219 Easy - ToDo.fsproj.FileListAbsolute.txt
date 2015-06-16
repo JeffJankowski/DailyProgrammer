@@ -1,0 +1,8 @@
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Easy - ToDo\bin\Debug\_219_Easy___ToDo.exe.config
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Easy - ToDo\bin\Debug\_219_Easy___ToDo.XML
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Easy - ToDo\bin\Debug\_219_Easy___ToDo.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Easy - ToDo\bin\Debug\_219_Easy___ToDo.pdb
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Easy - ToDo\bin\Debug\FSharp.Core.dll
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Easy - ToDo\bin\Debug\FSharp.Core.xml
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Easy - ToDo\obj\Debug\_219_Easy___ToDo.exe
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Easy - ToDo\obj\Debug\_219_Easy___ToDo.pdb

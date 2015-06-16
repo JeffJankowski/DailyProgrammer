@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "218 Hard - ElevatorGenetic"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217 Intermediate - SpaceCode", "217 Intermediate - SpaceCode\217 Intermediate - SpaceCode.csproj", "{739802D2-DA14-4597-B35A-4711E63D8987}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "219 Easy - ToDo", "219 Easy - ToDo\219 Easy - ToDo.fsproj", "{82837F38-1F38-4E1C-8752-0213A57452A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{739802D2-DA14-4597-B35A-4711E63D8987}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{739802D2-DA14-4597-B35A-4711E63D8987}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{739802D2-DA14-4597-B35A-4711E63D8987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82837F38-1F38-4E1C-8752-0213A57452A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82837F38-1F38-4E1C-8752-0213A57452A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82837F38-1F38-4E1C-8752-0213A57452A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82837F38-1F38-4E1C-8752-0213A57452A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

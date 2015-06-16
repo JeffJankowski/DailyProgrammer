@@ -3,3 +3,4 @@ C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\217 In
 C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\217 Intermediate - SpaceCode\bin\Debug\217 Intermediate - SpaceCode.pdb
 C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\217 Intermediate - SpaceCode\obj\Debug\217 Intermediate - SpaceCode.exe
 C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\217 Intermediate - SpaceCode\obj\Debug\217 Intermediate - SpaceCode.pdb
+C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\217 Intermediate - SpaceCode\obj\Debug\217 Intermediate - SpaceCode.csprojResolveAssemblyReference.cache
