@@ -56,7 +56,6 @@
   <ItemGroup>
     <Compile Include="Program.fs" />
     <None Include="App.config" />
-    <Content Include="todo.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />

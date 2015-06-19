@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "216 Intermediate - HoldEm", "HoldEm\216 Intermediate - HoldEm.csproj", "{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217 Easy - Lumberjack", "Lumberjack_217_Easy\217 Easy - Lumberjack.csproj", "{BD25F42C-4148-44DC-B6F9-66EB23C9032F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "216 Hard - Holdem", "HoldEm_216_Hard\216 Hard - Holdem.csproj", "{D5991D28-48D6-48EF-908D-2A5CA44C04C4}"
@@ -21,16 +19,14 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "219 Easy - ToDo", "219 Easy
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "219 Intermediate - ToDo", "219 Intermediate - ToDo\219 Intermediate - ToDo.fsproj", "{F337B907-81E0-4537-ADE4-A4C8873657ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "216 Intermediate - HoldEm", "HoldEm_216_Intermediate\216 Intermediate - HoldEm.csproj", "{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BD25F42C-4148-44DC-B6F9-66EB23C9032F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BD25F42C-4148-44DC-B6F9-66EB23C9032F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD25F42C-4148-44DC-B6F9-66EB23C9032F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -63,6 +59,10 @@ Global
 		{F337B907-81E0-4537-ADE4-A4C8873657ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F337B907-81E0-4537-ADE4-A4C8873657ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F337B907-81E0-4537-ADE4-A4C8873657ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462C9B7A-2267-4BE1-A05D-C5CC6ABF5949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

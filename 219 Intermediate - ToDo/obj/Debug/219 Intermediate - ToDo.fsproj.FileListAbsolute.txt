@@ -6,3 +6,11 @@ C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 In
 C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Intermediate - ToDo\bin\Debug\FSharp.Core.xml
 C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Intermediate - ToDo\obj\Debug\_219_Intermediate___ToDo.exe
 C:\Users\jjankowski\Documents\Visual Studio 2013\Projects\DailyProgrammer\219 Intermediate - ToDo\obj\Debug\_219_Intermediate___ToDo.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Intermediate - ToDo\bin\Debug\_219_Intermediate___ToDo.exe.config
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Intermediate - ToDo\bin\Debug\_219_Intermediate___ToDo.XML
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Intermediate - ToDo\bin\Debug\_219_Intermediate___ToDo.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Intermediate - ToDo\bin\Debug\_219_Intermediate___ToDo.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Intermediate - ToDo\bin\Debug\FSharp.Core.dll
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Intermediate - ToDo\bin\Debug\FSharp.Core.xml
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Intermediate - ToDo\obj\Debug\_219_Intermediate___ToDo.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Intermediate - ToDo\obj\Debug\_219_Intermediate___ToDo.pdb

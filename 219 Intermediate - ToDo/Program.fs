@@ -41,17 +41,26 @@ type ToDo = {Items:Map<string,List<string>>} with
             printfn ""
 
 let load path =
-    {Items = System.IO.File.ReadLines(path)
-    |> pairs
-    |> List.map (fun (cat,csv) -> cat,(csv.Split(',') |> Array.toList))
-    |> Map.ofList }
+    if System.IO.File.Exists(path) then 
+        {Items = System.IO.File.ReadLines(path)
+        |> pairs
+        |> List.map (fun (cat,csv) -> cat,(csv.Split(',') |> Array.toList))
+        |> Map.ofList }
+    else
+        {Items = Map.empty}
 
+let save path todo = 
+    let contents = (todo.Items |> Map.toArray |> Array.map (fun (cat,lst) -> sprintf "%s\n%s" (cat.ToUpper ()) (String.concat "," lst))) |> String.concat "\n"
+    System.IO.File.WriteAllLines(path, [contents]) 
 
 [<EntryPoint>]
 let main argv = 
-    let todo = load "../../todo.txt"
+    let path = "../../todo.txt"
+    let todo = (load path).add("Replace fingers", "Programming", "Music").add("Learn the mandolin", "Music").add("Demolish Taco Bell grande meal", "Food")
     let updated = todo.add("Temporary item", "Misc", "Programming").add("Remember to eat something", "Programming", "Food").remove("Temporary item").update("Replace fingers","Get robot hands")
-    updated.view("Food","Programming")
+    
+    updated.view("Food","Programming","Music")
+    save path updated
 
     System.Console.ReadKey() |> ignore
     0
