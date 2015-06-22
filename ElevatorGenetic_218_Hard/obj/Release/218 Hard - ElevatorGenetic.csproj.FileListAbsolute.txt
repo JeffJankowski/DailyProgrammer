@@ -1,0 +1,7 @@
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\ElevatorGenetic_218_Hard\bin\Release\ElevatorGenetic.exe.config
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\ElevatorGenetic_218_Hard\bin\Release\ElevatorGenetic.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\ElevatorGenetic_218_Hard\bin\Release\ElevatorGenetic.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\ElevatorGenetic_218_Hard\bin\Release\GAF.dll
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\ElevatorGenetic_218_Hard\obj\Release\218 Hard - ElevatorGenetic.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\ElevatorGenetic_218_Hard\obj\Release\ElevatorGenetic.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\ElevatorGenetic_218_Hard\obj\Release\ElevatorGenetic.pdb

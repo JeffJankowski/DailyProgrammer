@@ -1,6 +1,6 @@
 FOOD
-Remember to eat something,Demolish Taco Bell grande meal
+Remember to eat something,Demolish Taco Bell grande meal,Remember to eat something,Demolish Taco Bell grande meal,Remember to eat something,Demolish Taco Bell grande meal
 MUSIC
-Learn the mandolin,Get robot hands
+Learn the mandolin,Get robot hands,Learn the mandolin,Get robot hands,Learn the mandolin,Get robot hands
 PROGRAMMING
-Remember to eat something,Get robot hands
+Remember to eat something,Get robot hands,Remember to eat something,Get robot hands,Remember to eat something,Get robot hands

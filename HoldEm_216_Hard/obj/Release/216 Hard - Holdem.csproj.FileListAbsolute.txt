@@ -1,0 +1,6 @@
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Hard\bin\Release\HoldEm_216_Hard.exe.config
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Hard\bin\Release\HoldEm_216_Hard.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Hard\bin\Release\HoldEm_216_Hard.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Hard\obj\Release\216 Hard - Holdem.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Hard\obj\Release\HoldEm_216_Hard.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Hard\obj\Release\HoldEm_216_Hard.pdb

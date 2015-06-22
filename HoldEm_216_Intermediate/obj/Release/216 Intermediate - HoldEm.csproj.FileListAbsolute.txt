@@ -1,0 +1,6 @@
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Intermediate\bin\Release\HoldEm.exe.config
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Intermediate\bin\Release\HoldEm.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Intermediate\bin\Release\HoldEm.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Intermediate\obj\Release\216 Intermediate - HoldEm.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Intermediate\obj\Release\HoldEm.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\HoldEm_216_Intermediate\obj\Release\HoldEm.pdb

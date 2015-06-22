@@ -1,0 +1,6 @@
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Hard - ProsperityCave\bin\Debug\219 Hard - ProsperityCave.exe.config
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Hard - ProsperityCave\bin\Debug\219 Hard - ProsperityCave.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Hard - ProsperityCave\bin\Debug\219 Hard - ProsperityCave.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Hard - ProsperityCave\obj\Debug\219 Hard - ProsperityCave.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Hard - ProsperityCave\obj\Debug\219 Hard - ProsperityCave.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\219 Hard - ProsperityCave\obj\Debug\219 Hard - ProsperityCave.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Palindromic_218_Easy\bin\Release\Palindromic_218_Easy.exe.config
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Palindromic_218_Easy\bin\Release\Palindromic_218_Easy.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Palindromic_218_Easy\bin\Release\Palindromic_218_Easy.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Palindromic_218_Easy\obj\Release\218 Easy - Palindromic.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Palindromic_218_Easy\obj\Release\Palindromic_218_Easy.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Palindromic_218_Easy\obj\Release\Palindromic_218_Easy.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\217 Intermediate - SpaceCode\bin\Release\217 Intermediate - SpaceCode.exe.config
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\217 Intermediate - SpaceCode\bin\Release\217 Intermediate - SpaceCode.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\217 Intermediate - SpaceCode\bin\Release\217 Intermediate - SpaceCode.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\217 Intermediate - SpaceCode\obj\Release\217 Intermediate - SpaceCode.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\217 Intermediate - SpaceCode\obj\Release\217 Intermediate - SpaceCode.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Polyominoes_218_Intermediate\bin\Release\Polyominoes_218_Intermediate.exe.config
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Polyominoes_218_Intermediate\bin\Release\Polyominoes_218_Intermediate.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Polyominoes_218_Intermediate\bin\Release\Polyominoes_218_Intermediate.pdb
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Polyominoes_218_Intermediate\obj\Release\218 Intermediate - Polyominoes.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Polyominoes_218_Intermediate\obj\Release\Polyominoes_218_Intermediate.exe
+C:\Users\Jeff\Documents\GitHub\DailyProgrammer\Polyominoes_218_Intermediate\obj\Release\Polyominoes_218_Intermediate.pdb
